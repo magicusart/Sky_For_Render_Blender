@@ -1,6 +1,6 @@
 # Sky For Render Blender
 
-## Variable sky for Blender's embedded render.
+## Variable sky for Blender's internal render.
 
 
 

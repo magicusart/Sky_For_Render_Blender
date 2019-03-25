@@ -1,29 +1,16 @@
 # Sky For Render Blender
 
-## Небо для Blender 3D
+## Variable sky for Blender's embedded render.
 
 
 
-## Всвязи со скорым выходом после Code Quest релиза Blender 2.8 (который обещает нам большие перемены) разработка небес приостановлена. Хотя бы - до beta в июле этого - 2018 - года.
+## Designed for Blender 2.79
 
 
 
-
-### Зачем всё это
-
- * Родной рендер Blender самый быстрый.
- * Поэтому, стоит попробовать получить с его помощью наилучший результат.
-
-### Как
-
-* Работает в Blender 2.79
-* Производство текстур - Bryce 7.2
-
-### Загрузки нового неба в репозиторий
-
-* Бывают не реже 2 раз в месяц
+### The project is closed. We will make the sky for the render Eevee)
 
 
-### Кто
+### Who
 
 * Sergey Mikhaylov  [Magicus Art](https://magicus-art.com/)
